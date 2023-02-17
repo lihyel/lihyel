@@ -1,7 +1,9 @@
-### 💙 Hi I'm Hyeri Lee 💙
-
 <div align = center>
 
+##  Hi I'm Hyeri Lee 
+<br></br>
+
+## 🍏 Stats 🍏
 <!-- 스탯(Stats) 추가하기 -->
 ![lihyel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lihyel&show_icons=true&theme=transparent)
 
@@ -14,18 +16,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihyel&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- 아이콘 추가하기-->
-<!--인스타그램-->
-<a href="https://www.instagram.com/li_hyel/">
+## 🍊 Cowork tools 🍊
+<!--깃허브-->
+<a href="https://github.com/lihyel">
     <img 
-        src="http://img.shields.io/badge/-li_hyel-ffc0cb?style=flat&logo=Instagram&link=https://www.instagram.com/li_hyel/"
+        src="http://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub&logoColor=white&link=https://github.com/lihyel"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<!--네이버블로그-->
-<a href="https://blog.naver.com/li_hyel">
-    <img 
-        src="http://img.shields.io/badge/-Naver Blog-AAEBAA?style=flat&logo=Naver&link=https://blog.naver.com/li_hyel"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<!--노션-->
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+
+
+<!-- tech stack 에 사용 _ 링크연결 필요 없는
+## Tech Stack
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
+-->
     
 </div>
