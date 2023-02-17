@@ -1,5 +1,6 @@
 ### 💙 Hi I'm Hyeri Lee 💙
 
+<div align = center>
 
 <!-- 스탯(Stats) 추가하기 -->
 ![lihyel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lihyel&show_icons=true&theme=transparent)
@@ -26,3 +27,5 @@
         src="http://img.shields.io/badge/-Naver Blog-AAEBAA?style=flat&logo=Naver&link=https://blog.naver.com/li_hyel"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+    
+</div>
