@@ -1,6 +1,6 @@
 <div align = center>
 
-##  Hi I'm Hyeri Lee 
+##  Hi! I'm Hyeri Lee 
     👩🏻‍🎓 Major in ::: Software / Computer Science
     📚 Study ::: Data Science, Machine Learning, AI
 
