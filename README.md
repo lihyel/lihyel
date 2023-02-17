@@ -1,9 +1,11 @@
 <div align = center>
 
 ##  Hi I'm Hyeri Lee 
+    👩🏻‍🎓 Major in ::: Software / Computer Science
+    📚 Study ::: Data Science, Machine Learning, AI
 <br></br>
 
-## 🍏 Stats 🍏
+### 💎 Stats 💎
 <!-- 스탯(Stats) 추가하기 -->
 ![lihyel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lihyel&show_icons=true&theme=transparent)
 
@@ -16,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihyel&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🍊 Cowork tools 🍊
+### 👩🏻‍💻 Cowork tools 👩🏻‍💻
 <!--깃허브-->
 <a href="https://github.com/lihyel">
     <img 
