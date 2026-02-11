@@ -5,12 +5,6 @@
     📚 Study ::: Data Science, Machine Learning, AI
 
 
-### 💎 Stats 💎
-<!-- 스탯(Stats) 추가하기 -->
-<img align = "center" width="50%" src="https://github-readme-stats.vercel.app/api?username=lihyel&show_icons=true&theme=transparent"/>
-
-<img align = "right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihyel&layout=compact&theme=vue&langs_count=5"/>
-
 <br></br>
 
 ### 📚 Study 📚
