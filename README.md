@@ -4,9 +4,6 @@
     👩🏻‍🎓 Major in ::: Software / Computer Science
     📚 Study ::: Data Science, Machine Learning, AI
 
-<!-- 움짤 --> 
-<img width="80%" src="https://user-images.githubusercontent.com/68941380/219661175-c49fdd62-454f-4edb-87c3-c34086900153.gif"/>
-
 
 ### 💎 Stats 💎
 <!-- 스탯(Stats) 추가하기 -->
